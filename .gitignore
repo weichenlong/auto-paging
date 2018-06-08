@@ -1,0 +1,11 @@
+.hibernateSynchronizer3
+.idea
+target
+*.iml
+.classpath
+.project
+.settings
+logs
+auto-paging-core/src/main/webapp/.vscode/
+rebel.xml
+temp
